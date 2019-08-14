@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/../{PROJECT}-Framework.xcodeproj">
+      location = "group:/../../{PROJECT}-Framework.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:{PROJECT}-Example.xcodeproj">
